@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🌱 I'm just starting my coding adventure
+- 💻 I will be starting **Northcoders Data Engineering Bootcamp** in December
+- 🎯 My goal is to become a **professional coder**!
+- 🐍 Currently learning **Python**
+- 📫 E-mail: marcinsdl@icloud.com 
 <!--
 **Miigget/miigget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
