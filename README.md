@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I'm just starting my coding adventure
-- 💻 I will be starting **Northcoders Data Engineering Bootcamp** in December
+- 💻 **Northcoders Data Engineering** Student
 - 🎯 My goal is to become a **professional coder**!
 - 🐍 Currently learning **Python**
 - 📫 E-mail: marcinsdl@icloud.com 
