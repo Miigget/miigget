@@ -3,7 +3,7 @@
 - 🌱 I'm just starting my coding adventure
 - 💻 **Northcoders Data Engineering** Graduate
 - 🎯 My goal is to become a **professional coder**!
-- 🐍 Currently learning **Python**
+- 🐍 Currently learning **Python**, **SQL**, **Terraform**
 - 📫 E-mail: marcinsdl@icloud.com 
 <!--
 **Miigget/miigget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
