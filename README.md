@@ -2,8 +2,9 @@
 
 - 🌱 I'm just starting my coding adventure
 - 💻 **Northcoders Data Engineering** Graduate
+- 🎓 Studying **[10xdevs.pl](https://www.10xdevs.pl/)** **Generative AI for Programmers**
 - 🎯 My goal is to become a **professional coder**!
-- 🐍 Currently learning **Python**, **SQL**, **Terraform**
+- 🐍 Currently learning **Python**, **SQL**, **Terraform**, **Generative AI**
 - 📫 E-mail: marcinsdl@icloud.com 
 <!--
 **Miigget/miigget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
