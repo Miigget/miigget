@@ -2,7 +2,7 @@
 
 - 🌱 I'm just starting my coding adventure
 - 💻 **Northcoders Data Engineering** Graduate
-- 🎓 Studying **[10xdevs.pl](https://www.10xdevs.pl/)** **Generative AI for Programmers**
+- 🎓 Studying **[10xdevs.pl](https://www.10xdevs.pl/)** **Generative AI for Programmers Course**
 - 🎯 My goal is to become a **professional coder**!
 - 🐍 Currently learning **Python**, **SQL**, **Terraform**, **Generative AI**
 - 📫 E-mail: marcinsdl@icloud.com 
