@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-- 🌱 Currently doing an internship as a **Junior Python Developer**.
+- 🌱 **Full Stack Developer** for **Twój Lekarz**
 - 🎓 **[10xdevs.pl](https://www.10xdevs.pl/)** **Generative AI for Programmers Course** - Certificate with Distinction
 - 💻 **Northcoders Data Engineering** Graduate
 - 🐍 **Python**, **SQL**, **Terraform**, **Generative AI**
-- 🎯 Actively looking for work
+- 🎯 Actively learning...
 - 📫 E-mail: marcinsdl@icloud.com 
 <!--
 **Miigget/miigget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
