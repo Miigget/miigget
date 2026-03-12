@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 **Full Stack Developer** for **Twój Lekarz**
+- 🌱 **Full Stack Developer** at **Twój Lekarz**
 - 🎓 **[10xdevs.pl](https://www.10xdevs.pl/)** **Generative AI for Programmers Course** - Certificate with Distinction
 - 💻 **Northcoders Data Engineering** Graduate
 - 🐍 **Python**, **SQL**, **Terraform**, **Generative AI**
